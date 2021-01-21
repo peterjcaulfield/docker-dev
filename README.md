@@ -5,6 +5,7 @@ Dockerisation of my preferred development environment featuring:
 - OS: Alpine Linux (this may change but want something lightweight for now)
 - Shell: ZSH + Oh My Zsh
 - Editor: Neovim
+- ...more to come
 
 Building:
 
