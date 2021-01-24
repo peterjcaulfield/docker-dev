@@ -4,6 +4,7 @@ RUN apk upgrade && \
     apk --update add \
         zsh-vcs \
         util-linux \
+        netcat-openbsd \
         tree \
         jq \
         zsh \
